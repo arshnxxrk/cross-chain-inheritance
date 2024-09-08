@@ -3,7 +3,7 @@
 Inherit-X is a decentralised platform built on the blockchaim technology that aims to securely pass on digital assets: cryptocurrency and NFT's to user's beneficiaries.
 
 # User Flow 🖥️
-The user flow for the project is given as below:
+The user flow for the project is shown below:
 ![Screenshot 2024-02-05 123604](https://github.com/pragya0151/cross-chain-inheritance/assets/122431469/54fb499c-1018-469e-8469-94859327199c)
 
 # Convenience 🙂
